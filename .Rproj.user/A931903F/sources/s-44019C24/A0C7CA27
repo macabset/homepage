@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1512730606689.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A0C7CA27",
+    "lastKnownWriteTime" : 1512730664,
+    "last_content_update" : 1512730664,
+    "path" : "~/murmeli/2017/GitHub/homepage/_site.yml",
+    "project_path" : "_site.yml",
+    "properties" : {
+        "cursorPosition" : "1,13",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
