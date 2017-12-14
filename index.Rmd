@@ -2,9 +2,20 @@
 title: "Home Page -Project"
 author: "Maija Absetz"
 date: "8 December 2017"
+
 ---
 
 
 1st. website.
 
 taken away: output: html_document. Let's see what happens.
+New. Config.yml: architect theme, but doesn't work. Instead in site.yml from emmakarolina's github.
+output:
+  html_document:
+    theme: flatly
+    highlight: pygments
+    toc: true
+    number_sections: false
+    toc_depth: 4
+    toc_float: true
+    smooth_scroll: true

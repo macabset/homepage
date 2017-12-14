@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2387282363",
+    "hash" : "4084751015",
     "id" : "8E1E14D7",
-    "lastKnownWriteTime" : 1512725364,
-    "last_content_update" : 1512725364,
+    "lastKnownWriteTime" : 1513248452,
+    "last_content_update" : 1513248452520,
     "path" : "~/murmeli/2017/GitHub/homepage/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
+        "cursorPosition" : "11,99",
+        "scrollLine" : "0"
     },
     "relative_order" : 4,
     "source_on_save" : false,
