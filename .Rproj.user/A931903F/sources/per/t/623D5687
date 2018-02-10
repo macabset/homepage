@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1641842298",
+    "hash" : "2330510814",
     "id" : "623D5687",
-    "lastKnownWriteTime" : 1513246606,
-    "last_content_update" : 1513246606,
+    "lastKnownWriteTime" : 1513248511,
+    "last_content_update" : 1513248511,
     "path" : "~/murmeli/2017/GitHub/homepage/_config.yml",
     "project_path" : "_config.yml",
     "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
     },
     "relative_order" : 4,
     "source_on_save" : false,

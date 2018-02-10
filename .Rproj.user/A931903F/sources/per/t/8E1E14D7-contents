@@ -2,10 +2,9 @@
 title: "Home Page -Project"
 author: "Maija Absetz"
 date: "8 December 2017"
-
 ---
 
-
+#The start
 1st. website.
 
 taken away: output: html_document. Let's see what happens.
@@ -19,3 +18,8 @@ output:
     toc_depth: 4
     toc_float: true
     smooth_scroll: true
+
+#Title 2
+*10 February 2018*
+
+How do I get scrolling dates?

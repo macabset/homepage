@@ -1,4 +1,13 @@
 ---
 title: "Blog"
 ---
-This will be blog about Kazan/tatarstan.
+#Bloggetiblogblog
+
+This will be a blog about Kazan/tatarstan.
+
+##Phase 1: Building the platform
+
+![The "3rd" capital city of Russia](pictures/kazan_1.png)
+
+
+#Title 2

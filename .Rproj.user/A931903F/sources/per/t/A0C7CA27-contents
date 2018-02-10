@@ -16,3 +16,4 @@ output:
     toc_depth: 4
     toc_float: true
     smooth_scroll: true
+
