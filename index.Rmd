@@ -1,25 +1,7 @@
 ---
 title: "Home Page -Project"
-author: "Maija Absetz"
-date: "8 December 2017"
 ---
 
-#The start
-1st. website.
+This homepage is created with R-coding language and provided to the world with GitHub.(Do you want to start your own web page? Read these instructions, and you are basically there! [instruction 1](https://rmarkdown.rstudio.com/lesson-13.html) and [instruction 2](https://bookdown.org/yihui/rmarkdown/websites.html). It could not have been done without my studies at the University of Helsinki and especially a course called Introduction to Open Data Science [IODS](https://courses.helsinki.fi/fi/78995/115961424)  led by statistical expert [Kimmo Vehkalahti]( http://www.helsinki.fi/~kvehkala/index.html). 
 
-taken away: output: html_document. Let's see what happens.
-New. Config.yml: architect theme, but doesn't work. Instead in site.yml from emmakarolina's github.
-output:
-  html_document:
-    theme: flatly
-    highlight: pygments
-    toc: true
-    number_sections: false
-    toc_depth: 4
-    toc_float: true
-    smooth_scroll: true
-
-#Title 2
-*10 February 2018*
-
-How do I get scrolling dates?
+Are you interested in the learning process behind this amazingly beautiful outcome? Go check my [GitHub pages]( https://github.com/macabset) and my previous [project](https://macabset.github.io/IODS-final/) with R and GitHub.

@@ -1,0 +1,22 @@
+name: "Home Page -Project"
+output_dir: "."
+navbar:
+  title: "Homepage"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Blog"
+      href: blog.html
+  right:
+    - text: About me
+      href: about.html
+output:
+  html_document:
+    theme: flatly
+    highlight: pygments
+    toc: true
+    number_sections: false
+    toc_depth: 4
+    toc_float: true
+    smooth_scroll: true
+
