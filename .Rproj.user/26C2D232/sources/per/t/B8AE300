@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531750565898.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2850572527",
+    "id" : "B8AE300",
+    "lastKnownWriteTime" : 1533920832,
+    "last_content_update" : 1533920832903,
+    "path" : "~/GitHub/homepage/blog.Rmd",
+    "project_path" : "blog.Rmd",
+    "properties" : {
+        "cursorPosition" : "66,0",
+        "scrollLine" : "64"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
