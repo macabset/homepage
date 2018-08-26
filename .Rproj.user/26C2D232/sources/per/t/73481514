@@ -5,17 +5,17 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "366603883",
+    "hash" : "256314461",
     "id" : "73481514",
-    "lastKnownWriteTime" : 1534602239,
-    "last_content_update" : 1534602239261,
+    "lastKnownWriteTime" : 1535289910,
+    "last_content_update" : 1535289910048,
     "path" : "~/GitHub/homepage/blog.Rmd",
     "project_path" : "blog.Rmd",
     "properties" : {
-        "cursorPosition" : "12,3",
-        "scrollLine" : "1"
+        "cursorPosition" : "24,30",
+        "scrollLine" : "20"
     },
-    "relative_order" : 3,
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"
