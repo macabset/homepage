@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "blog"
+    - text: "Historia"
       href: blog.html
     - text: "Runoja"
       href: runoja.html
