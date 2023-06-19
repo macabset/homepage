@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Blog"
+    - text: "Muinainen itämaa [2018]"
       href: blog.html
   right:
     - text: About me
