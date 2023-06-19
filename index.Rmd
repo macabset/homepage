@@ -1,7 +1,11 @@
 ---
-title: "Home Page -Project"
+title: "Kotisivut"
 ---
+## Uusi kuvaus
 
+Kuvaus tähän
+
+## Original description 
 This homepage is created with R-coding language and provided to the world with GitHub.(Do you want to start your own web page? Read these instructions, and you are basically there! [instruction 1](https://rmarkdown.rstudio.com/lesson-13.html) and [instruction 2](https://bookdown.org/yihui/rmarkdown/websites.html). It could not have been done without my studies at the University of Helsinki and especially a course called Introduction to Open Data Science [IODS](https://courses.helsinki.fi/fi/78995/115961424)  led by statistical expert [Kimmo Vehkalahti]( http://www.helsinki.fi/~kvehkala/index.html). 
 
 Are you interested in the learning process behind this amazingly beautiful outcome? Go check my [GitHub pages]( https://github.com/macabset) and my previous [project](https://macabset.github.io/IODS-final/) with R and GitHub.
