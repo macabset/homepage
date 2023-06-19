@@ -1,14 +1,14 @@
 ![](pictures/blog_kansi.png)  
   
-  
-#Perusteluja
+# Perusteluja
+
 Krasnaja Maika (Красная Майка) on kyrilisistä aakkosista latinalaisille käännetty sanapari, joka tarkoittaa sananmukaisesti punaista aluspaitaa (sanan suku, feminiini). Nimeni on Maika.
 
 Luultavasti sinä, joka luet blogiani, tunnet minut jo, sillä tämä ei löydy trendikkäistä blogilistauksista, tai oikeastaan mistään blogilistauksista, koska olen rakentanut tämän tyhjästä ilman ulkopuolista blogialustaa (kunniamaininta tietenkin R-studiolle ja Gtihubille, joiden kautta operoin projektiani. Lue lisää etusivulta.). Täältä voit tarkistaa, että olen hengissä. Vakuutan, että olen.
 
 Mikäli et tunne minua entuudestaan (tai vielä tarpeeksi hyvin!), asun seuraavat puoli vuotta Kazanissa, Tatarstanin tasavallassa, Venäjän federaatiossa. Tiedän jo kaupungista jotain muuta kuin mitä Wikipedian ensimmäiset kaksi kappaletta kertovat siitä. Venäjää olen lukenut monen vuoden ajan, mutta hajanaisilla kursseilla. Virallisena tavoitteena on oppia ennen kaikkea venäjää, mutta epävirallisen opetussuunnitelman mukaan ihminen, joka lähtee vaihtoon, ei tule enää takaisin samana. Älkää huoliko, lupaan tulla takaisin!
 
-##Pitkät jäähyväiset
+## Pitkät jäähyväiset
 >23.12.2018
 
 Joulu on huomenna, eilen vielä oli kesä. Vietämme sen kansainvälisessä porukassa, frendin pienessä yksiössä. Jokainen ”kansakunta” on valmistautunut tekemään jotain ruokaa ja itsevaltiaan oikeuksilla, voin lanseerata suomalaiset blinit suomalaiseksi erikoisuudeksi. Lisäksi lempiopettajani (Aigöl [aigöl ööllä, koska aigöl on alkujaan tataarinimi, eikä siis ollenkaan venäläinen] ven. Айгуль) täältä tulee vetämään viimeisen leffaluennon kyseiseen yksiöön, sillä mikään muu päivä ei sopinut kaikille. Olin myös hänen vetämällään viimeisellä kirjeiden kirjoituskurssilla, meitä oli tasan kaksi luennolla. Selitimme tilanteen, että kaikki leffakerholaiset ovat oppitunnin aikaan valmistamassa jouluateriaa suomalaisen toverimme luona, emmekä siksi silloin pääse luennolle. En enää osaa sanoa, kuinka asiaan päästiin, mutta jossain vaiheessa Aigöl vihjasi, että eihän oppitunnin ole pakko olla luokassa ja hän voi viinin kera tulla ”mihin auditorioon tahansa”. Kysyin, olisiko hän valmis tulemaan meidän kanssamme katsomaan viimeisen leffan, kun kaikki samassa osoitteessa muutenkin ovat ja hän valtuutti minut kysymään osoitteen omistajalta. Kaikki sanoivat kyllä. Kaikilla on arvosanat ja pisteet annettu, mutta siitä huolimatta olemme valmiita osallistumaan jouluaattona viimeiselle luennolle opettajamme kanssa. AIgöl on just niin hyvä, oi oodi Aigölille!
@@ -43,7 +43,7 @@ Kiitos, kun olet pysynyt mukanani; kiitos että sinua on kiinnostanut elämäni 
 * Ostin korttipakan, jossa on vain 36 korttia. Pitänee opetella Durak (venäläinen korttipeli)
 
 
-#Loppuja ja alkuja
+# Loppuja ja alkuja
 
 >16.12.2018
 
@@ -96,7 +96,7 @@ Kahden venäläisen suulla olen kuullut, että Boris Jeltsin, venäjän ensimmä
 * Ensimmäiset hyvästit
 
 
-##Ни пуха ни пера
+## Ни пуха ни пера
 
 >4.12.2018
 
@@ -117,7 +117,7 @@ Kahden venäläisen suulla olen kuullut, että Boris Jeltsin, venäjän ensimmä
 В конце неделя, на день самостоятельность Финляндии, поедем в Екатеринбург и вернёмся на моём день рождения. Но об этого скажу на следующей неделе!
 
 
-##Kulttuurimuuri ja portteja siihen
+## Kulttuurimuuri ja portteja siihen
 
 >25.11.2018
 
@@ -150,7 +150,7 @@ Illan päätteeksi minulle neuvottiin tanssiryhmä, jonne voin mennä treenaamaa
 * Perhe käymässä (He pääsivät kuin pääsivätkin byrokratian hampaiden lävitse yliopistokylään.)
 
 
-##Musiikin voimalla
+## Musiikin voimalla
 
 >16.11.2018
 
@@ -181,7 +181,7 @@ Tein myös oman ensiesiintymiseni osana yliopiston Kapella kuoroa. Lauloimme ilm
 кстати, в моей комнате так холодно что я пишу блог на перчатках.
 
 
-##Missä historia elää
+## Missä historia elää
 
 >11.11.2018
 
@@ -373,7 +373,7 @@ Ilta oli perinteinen syömään, baariin ja klubille, mutta venäläisen tytön 
 
 
 
-##Downshifting
+## Downshifting
 
 >6.10.2018
 
@@ -437,7 +437,7 @@ Ekat kerrat alkavat olla jo aika keinotekoisia, joten olkoot listaus:
 
 
 
-##Valintoja
+## Valintoja
 
 >20.9.2018
 
@@ -530,7 +530,7 @@ E:n kanssa meillä oli suunnitelmana kävellä hänen kotialuellaan jokivartta p
 * крысты-бургер (krysty on tataariruokaa, joka on käytännössä pita erilaisilla täytteillä. Tataaripikaruokaravintolassa soi Jenni Vartiaisen [Missä muruseni on tataariksi]( http://tuylar.ru/fin-jyrchysy-tatarcha-jyrlyy-video-959).
 
 
-##Oikea arki
+## Oikea arki
 
 >9.9.2018
 
@@ -571,7 +571,7 @@ Perjantaina olimme katsomassa peliä Ak Bars (Kazan) vs. Barys (Astana) eli koti
 Hа этом неделе начинали курсы по настоящему. У нас не так много откуда выбрать, но, к счастью, я получаю 10 кредитов из летного курса и поэтому у меня больше свободно. Мне надо работать больше с грамматикой но кроме этого, всё чувствует хорошо. Я могу эти делать! У меня будет курсы о грамматике, разговоре, деловом письме, русских песнях и русских фильмах. Я в восторге, особенно подожду курс о русском кино. В пятнице мы ходили смотреть хоккей, «Домная команда» Ак Барс Казань против команды Барыс из города Астаны. Атмосфера стадионы была потрясающая! Мы видели игроки очень близко, и они преогромные! Ак Барс выиграл матч 4-3 но это был жал что никто не аплодировали, когда Барыс сделал гол. Я надеюсь, что будет игр Ёкерит против Ак Барс Казани. Тогда обясательно покупаю билеты!
 
 
-##Taitepisteessä
+## Taitepisteessä
 
 *1.9.2018*
 
@@ -632,7 +632,7 @@ Kysymykseeni sain vastaukseksi joko räikeän tietämättömyyden tai valheen. K
 В этом неделе я переехала в дерeвние универсиады. У нас в квартире 3 девушки вместе и со мной в комнате вторая девушка из Тайвани. Ну только один ночь спала в новом квартире и поехали в Москву с друзьями! Поезд ехал 12 часов, и поэтому спали в поезде, «на полках», как назывались кровати. В Москве мы жили с русской Наташей который подруга Е. Она очень добрая и её мама нам приготовила ужин и завтрак каждый день. Мы гуляли, многo видели, и говорили с русскими людями. Красная площадь, Собор Василия Блаженного, храм Христа Спасителя, парк Горкого, музей искусства, Арбат, Ленин... Всё очень красиво, но самое интересное - было люди. Мы говорили о путешествие, истории, феминизме, религии, планах будущего, других языках. Ну после Москва я очень рада что опят домой.
 
 
-##Jännityspäänsärkyä
+## Jännityspäänsärkyä
 
 *24.8.2018*
 
@@ -706,7 +706,7 @@ Turhautumisen vastapainona on kiitollisuus ympärilläni olevia ihmisiä kohtaan
 В следующем неделе перееду в общежите. Беспокоюсь, но тоже заинтересуюсь!
 
 
-##(Asenne)muutoksia
+## (Asenne)muutoksia
 
 *18.8.2018*
 
@@ -765,7 +765,7 @@ Syyslukukausi alkaa kahden viikon päästä. Minä en tiedä, mitä kursseja min
 У нас новая преподавательница, кто очень быстро говорит и просит трудные вопросы об истории Финляндии из XIого века. Но мы говорим о русских писателях и жизни в XIом веке. Это очень интересно! Мы были в музее Бротйнского, кто жил в Финляндии 5 лет (В Иматра), и у кого Пушкин сидели в диване целый час!  У нас тоже начали Русские Песнии, где мы поём по-русски. Но преподавательница очень высоко и громка поёт что это трудно петь с ней. Она всегда скажет, что надо петь и ещё громко, но мне нравится. Она так типичная русская преподавательница, что это интересно только видеть. На прошлом неделе мы были на Голyбом озере, где вода холодно (+7 градусов) и синее и - так - голубое. Мы тоже принимали палаткая баня!
 
 
-##Pyörteissä
+## Pyörteissä
 
 *10.8.2018*
 
@@ -777,20 +777,20 @@ Tuntuu, että myös muilla on asenne sanoa ”Kyllä!” aina kun voi. Ainoa haa
 
 Ikävä kotiin tulee vain puhelimessa. Kirjoittaminenkin pitää riittävän etäällä. Olen koko ajan liikkeessä, kokemassa, elämässä että aikaa jää tuskin reflektointiin ja tuntemiseen. En muistaisi, mitä on tapahtunut, ellen pitäisi päiväkirjaa. Kaipaan suomea, erityisesti kielenä kommunikoimiseen. Venäjän jälkeen englanti tuntuu jopa melkein yhtä helpolta kuin suomi, mutta ei kuitenkaan samalta. Niin paljon jää sanomatta, osaan antaa itseni vain vaillinaisesti. Siksi, mikäli olen kuunnellut musiikkia, on se lähinnä suomeksi. Haluan jakaa Teille tunteeni kappaleena, ja tällä kertaa se on Pariisin kevään Haamupuhelu.
 
-####Venäläistä elämää
+#### Venäläistä elämää
 
 E:n kanssa menimme ”sohvasurffareiden” (couch surfer’s) tapaamiseen, jossa venäläiset haluavat oppia englantia. Teemana oli ympäristö ja saasteet ja pääsimme E:n kanssa jakamaan länsimaista vasemmistopropagandaa. Paikalla oli onnekkaasti yksi ekologi, joka paikkasi kielitaidon puutetta asiantuntemuksellaan. Hän kertoi tarinan, että bussissa poika oli heittänyt roskaa hänen päälleen. Ekologi huomautti tästä lapsen äidille, joka korjasi tilanteen ottamalla roskan ekologilta ja heittämällä roskan bussin ikkunasta ulos. Näin myös omin silmin myöhemmin, kuinka bussin ikkuna toimi roskakorina. Ekologimme korosti, että kasvatusta ja koulutusta pitäisi venäjällä parantaa, että ongelma ei ole hänen päälleen heitetty roska vaan äidin välinpitämätön malli lapselleen. Paikalla oli myös eräs muita alentuvasti katsova sielu, jonka ratkaisu olisi käyttää ennemmin henkilöautoja kuin busseja. Puhuimme E:n kanssa lihatuotannon ongelmista, johon samainen henkilö kysyi: ”No oletteko itse lopettaneet lihan syönnin?” Molemmat saimme huoneen hiljaiseksi vastaamalla olevamme kasvissyöjiä kotimaissamme, mutta täällä se on jokseenkin vaikeaa. Saatoin hiukan agitoitua kyseisen henkilön asenteesta. Keskustelu oli kuitenkin hyvää ja mielenkiintoista ja luulen, että ryhmä oli keskivertovenäläiseen verrattuna hyvinkin valistunutta. Maailman murheet katosivat karaokebaarissa jatkoilla.
 Kierrätys täällä toimii tasan sekajätteen muodossa. Anna kertoi naureskellen katsoneen ruotsalaisen ohjelman, jossa ihmiset tosissaan lajittelivat jätteet kuuteen eri kierrätysastiaan. Täällä kuitenkin tunnetaan tofu ja sitä _kuulemma_ löytää jostain. Yksi kurssilaisista jatkaa kasvissyöntiä Venäjällä. Hän toi omat juustot kotoa. Kasvisruokaa löytyy, mutta hän on kyllä usein nälkäinen.
 
 Olen tehnyt jotain oikein, sillä sain uudestaan kutsun dachalle. Tällä kertaa paikalla oli myös Vladimirin tyttöystävä sekä tämän poika. Minulle selvisi siellä, että pääsen myös saunaan. He kutsuivat sitä suomalaisittain saunaksi eivätkä banjaksi, joka on kuulemma vähän vielä viileämpi. Se siis jää vielä koettavaksi. Jostain syystä venäläisillä on käsitys, että suomalaiset käyvät vain tulikuumassa saunassa, jossa vettä ei heitetä kiukaalle ollenkaan. Sen sijaan siinä saunassa ei heitetty löylyä, mutta miedommassa lämpötilassa se ei haitannutkaan. Yritin parhaani mukaan korjata käsitystä suomalaisesta saunasta. Kokemani sauna oli noin 50 asteinen pieni puinen huone, jonka lauteilla mahtui istumaan kaksi ihmistä. Olimme pienessä huoneessa Liljan kanssa rehellisen alasti vain kynttilän valossa. Hänen mukaansa ystävien kesken on ok olla sekasaunassa, mutta sekasaunassa ollaan bikinit päällä tai muuten siveellisesti pyyhkeeseen kietoutuneena. Sukupuolijako ulottuu perheenjäseniinkin asti, eli tyttäret eivät yksinkertaisesti sauno isiensä kanssa. Juttelimme saunassa Liljan miesongelmista ja hän avautui minulle ihan uudella tavalla. Lisäksi teimme sinunkaupat. Mitä ilmeisimmin alasti istuminen kuumassa huoneessa helpottaa tutustumista.
 
-####Venäläiset eivät halua rahaa
+#### Venäläiset eivät halua rahaa
 
 Olen ollut täällä aika tarkalleen tasan kaksi viikkoa, enkä vieläkään ole saanut maksettua kurssimaksua. Se ei johdu siitä, etten olisi yrittänyt. Ensimmäisen viikon ajan kannoin koko ajan mukanani 27 000 ruplaa repussani sekä kaikkia tärkeitä asiakirjoja ja kävin lähes päivittäin toimistolla kysymässä, voinko maksaa kurssimaksun. Luottovirkailijamme sanoi ensimmäisen kerran ”huomenna”, sitten ”maanantaina” sitten ”laitan sinulle viestiä, kun voit maksaa” ja eilen hän tuli luokkaamme sanomaan, että maksaa voi ”ensi viikolla”. Käyn maanantaina uudestaan kysymässä, voinko maksaa kurssimaksun. Asiallahan ei olisi muuten väliä, mutta en saa opiskelijakorttia ilman kurssimaksun ja kurssisopimuksen tekemistä ja on rasittavaa kaivaa aina passi yliopiston turvatarkastuksessa. Kyllä, yliopistossa on erikseen portti ja virkailija, joka katsoo kaikkien henkilöpaperit. Lisäksi haluan päästä näkemään kirjaston, jonne ei myöskään pääse ilman opiskelijakorttia.
 
 R:n ja E:n kanssa päätimme lähteä käymään Moskovassa kurssin päätteeksi. Ajatus lensi ilmaan, ja kaikki sanoivat kyllä. Menimme R:n kanssa nettikahvilaan tilaamaan lippuja, joka osoittautui odotettua haastavammaksi. Ensimmäisen nettisivun kanssa täytettyämme kaikkien henkilötiedot sivusto ilmoitti, että minun kortillani ei voi maksaa. Tämä ei yllättänyt, sillä minulla ei ole luottokorttia. Se ei kuitenkaan onnistunut edes kahden eri maan, eri pankin luottokorteilla, PayPalilla tai eri nettisivustolla. Usean tunnin turhauttavan yrittämisen jälkeen kävelimme rautatieasemalle ja ostimme liput automaatista. Olen saanut paljon hyviä neuvoja, joista yksi on: asioihin voi mennä pidempään kuin kuvittelisi, mutta aina ne saa hoidettua. Tähän voisin lisätä, että hoitaminen ei tunnu yhtään niin kurjalta, kun sitä tekee yhdessä.
 
-####Kulttuurikohde
+#### Kulttuurikohde
 
 Viimeksi kuluneena viikkona (ja kyllä edellisenäkin) olen käynyt monessa kohteessa, joita voi kutsua kulttuuriksi. Tataarien puistomyyjäiset, ortodoksijumalanpalvelus, joenranta ilta-aikaan, karaoke venäläisten kanssa ja keskiaikainen kyläpahanen (Лаишево). Tämän viikon kulttuurikohteeksi valitsin kuitenkin jo alusta alkaen odottamani Raifskin luostarin (райфский монастырь). 1600-luvulla perustettu Raifskin luostari on yhä käytössä oleva munkkiluostari, jossa on myös koulu orvoille. Siellä on kaksi ortodoksikirkkoa, jotka ovat auki turisteille sekä kaivo, josta saa juomakelpoista vettä. Neuvostoliiton aikana se toimi oppilaitoksena ja se restauroitiin perusteellisesti 1990-luvun alussa.
 
@@ -809,7 +809,7 @@ Parasta paikassa oli luonto. Metsät ovat hätkähdyttävän samanlaisia kuin Su
 
 
 
-####Ekoja kertoja
+#### Ekoja kertoja
 
 * synagogassa
 
@@ -830,7 +830,7 @@ Parasta paikassa oli luonto. Metsät ovat hätkähdyttävän samanlaisia kuin Su
 
 
 
-##Rosoinen, täydellinen alku
+## Rosoinen, täydellinen alku
 
 *1.8.2018*
 
@@ -842,7 +842,7 @@ Ensimmäinen viikko on alkanut ryminällä. Lähtöpäivänä itkin silmäni nii
 
 Täällä minua oli vastassa Anna ja ovesta heti sisään astuttuani alusvaatteisillaan hihhuloiva 5-vuotias Sasha. Sattumoisin oli myös kuunpimennys, joten ehdin nippa nappa heittää tavarani sisälle, kun lähdimme iltakävelylle katsomaan kuunpimennystä. Oksennuksen maku unohtui pian hupenevaa kuutamoa katsellessa, Sashan pitäessä kädestä ja laulaessa Кака идёт, попа идёт. (Mikäli venäjän taitosi on hiukan ruostunut, suosittelen laittamaan google-translatoriin). En ehtinyt hyviä kuvia ottaa, sillä pikaisessa lähdössä en tajunnut edes puhelinta napata mukaani. Puhelimella otetut kuvat eivät kyllä juuri minkään näköisiä olleet, joten jos et ollut itse katsomassa kuuta omalta taivaaltasi, ei kuva paljoa lohduta. 
 
-####Vieraissa
+#### Vieraissa
 
 Seuraavaksi päiväksi minut kutsuttiin Annan isän luo mökille (дача), joka oli sekoitus siirtolapuutarhaa, mummolaa ja kesämökkiä. Minulle selvisi vasta seuraavana aamuna, että juhlimme hänen 75-vuotissyntymäpäiviä. Onneksi olin tajunnut tuoda tuliaisia riittävästi, jotta sain kyhättyä pienen lahjan Annan isälle Vladimirillekin. 1950-luvun talo keraamisine tulisijoineen ja pienine kierreportaineen näytti siltä, että sieltä voisi löytyä salaluukkuja pölyisten mattojen alta taikka unohdettuja muistoja tummuneista peileistä. Piha oli iso ja siellä oli kolme kasvihuonetta sekä valtava perunamaa, siellä täällä vadelmapuskia ja kirsikkapuita. Vladimir paistoi pihalla vartaita (сашлики) ja naiset valmistivat ruuan keittiössä ja kattoivat pöydän. Liityin siihen joukkoon, jossa tiesin mitä tehdä, eli autoin keittiössä sen verran kun ymmärsin ohjeita. Auttamishalukkuudestani sain kehun, että olisin hyvä emäntä/kotiäiti. He kysyivät, onko se hyvä kehu Suomessa. Siitä seuraavasta keskustelusta johtuen minut julistettiin feministiksi. Juhlan kunniaksi joimme venäläistä skumppaa. Puhuimme Vladimirin uudesta tyttöystävästä, mikä on täydellinen määrä lapsia, talvisodasta sekä mikä on tärkeintä elämässä (любов!), sekä paljosta muusta, mitä en ymmärtänyt. Kukin piti vuorollaan maljapuheen (myös minä!) ja nousimme pöydästä ystävinä.
 
@@ -859,7 +859,7 @@ Parina ensimmäisenä päivänä olemme kävelleet kaupungin keskustan päästä
 
 ![Banaanipiirakka tataarilaisittain](pictures/banaani.jpg)
 
-####Byrokratiaa
+#### Byrokratiaa
 
 Vähän on byrokratiaakin mahtunut päiviin. Kaikkea ei tietenkään voinut tehdä samana päivänä eikä samalta luukulta, enkä ole ihan varma, mitä kaikkea olen tehnyt. Menin yliopiston ulkomaisten opiskelijoiden toimistoon, jossa aulatädiltä kysyin, minne minun pitää mennä. Minut ohjattiin jonottamaan huoneeseen 114. Hetken päästä virkailija kysyi minua jonosta nimeltä ja ohjasi seuraavaan kerrokseen huoneeseen 218. En tiedä, mistä hän tiesi, kuka olen ja että jonotan juuri siinä, mutta olin hyvin kiitollinen siitä. Odotin pienessä toimistohuoneessa ja sain paperin käteeni, jonka hän täytti osittain. Minut vietiin huoneeseen 217, jossa toinen virkailija täytti lomaketta vähän lisää ja antoi nivaskan lomakkeita vastineeksi. Sitten minut ohjattiin jonottamaan huoneeseen 113 palauttamaan kyseinen lomake. Jono ei liikkunut mihinkään, ja ihmiset ohittelivat päästäkseen mystiseen huoneeseen 113. Ovesta ilmestyi taas yksi virkailija, jolta joku kysy jotain ja näin tilaisuuteni. Ojensin hänelle juuri saamani lomakkeen, enkä ole vielä nähnyt sitä uudestaan. Huomenna saatamme taas kohdata tai sitten emme. Mitä tulee byrokratiaan, kaikki tapahtuu aina huomenna.
 
@@ -870,7 +870,7 @@ Tänään oli ensimmäinen koulupäivä tasotesteineen. Olen tavallaan iloinen, 
 
 Olen väsynyt, mutta elossa. En olisi parempaa alkua voinut toivoa tai edes osannut. Suomessa olin pettynyt, että en saa vuoden vaihtoa, mutta tämä host-family ratkaisu tuntuu vastaavan tarpeeseeni nähdä venäläistä elämää, sellaisena kuin ihmiset sitä elävät. Anna ei edusta koko Venäjää eikä edes Kazania, eikä ole omien sanojensa mukaan kaikista tyypillisin venäläinen, mutta siitä huolimatta olen saanut kokemuksia, joista kotona haaveilin, mutta en tiennyt, miten toteuttaisin. Luulen, että minun kannattaa tämän kerran postaus lopettaa tähän päivään, sillä muuten yhdestä postauksesta tulee romaani.
 
-####Ekoja kertoja
+#### Ekoja kertoja
 
 * aitoa tataariruokaa
 
@@ -901,7 +901,7 @@ Olen väsynyt, mutta elossa. En olisi parempaa alkua voinut toivoa tai edes osan
 Я здесь приехала 3 дня назад и уже очень нравится! Сейчас живу у Анны и её сын Саши. Саша 5 лет и очень симпатический. Во первом вечере мы немного гуляли и смотрели лунное затмение и планета марс. Последний день у Папа Анны, кто зовут Владимир, был день рождений, и я тоже получила приглашение на дачу Владимира. Мы жарили сашлики и пили шампанское, и я тоже дала тост для Владимира. Следующий день мы гуляли по городу и встречили дружя Анны. Последний день подруга Анны, Лиля, тоже мне пригласила к ней. Она татарская и приготовила вкусная татарская еда. Мы слушали салса музыку и говорили о русских женщинах и финских мужчинах. Сегодня начал курс и был yровенный тесть. Я уже кто-то студентки познакомилась! Я очень рада за всё.
 
 
-##Unelmia
+## Unelmia
 
 *25.7.2018*
 
@@ -930,7 +930,7 @@ Pesäkoloni näyttää riivityltä marraskuun maisemalta ilman omia esineitäni.
 Меня зовут Майка и я буду пере-ехать в Казан по-обмену. Завтра мой последний вечер дома. В доме очень странно без моих вещей, без книг, без картин. Я некогда не летела только со мной, самостоятельно, один. Я нервозная и заинтересованная. Я возращаюсь, но не будеть же самая как сейчас.
 
 
-##Todellisuus iskee
+## Todellisuus iskee
 >16.7.2018
 
 Tämä on ensimmäinen virallinen blogipostaus. Sen takan on järjetön määrä kyyneliä, tappelua, opettelua, editointia ja tuskailua johtuen sekä itse aiheutetusta tavoitteista että ihan Venäjän omasta byrokratiasotkuista. Puhutaan ensin itse aiheutetuista tavoitteista.

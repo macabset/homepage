@@ -5,8 +5,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Muinainen itämaa [2018]"
+    - text: "blog"
       href: blog.html
+    - text: "Runoja"
+      href: runoja.html
   right:
     - text: About me
       href: about.html
@@ -19,4 +21,3 @@ output:
     toc_depth: 4
     toc_float: true
     smooth_scroll: true
-
