@@ -1,6 +1,6 @@
 ---
 title: "About me"
-author: "Maija Absetz"
+author: "Maika"
 date: "8 March 2018"
 output: html_document
 ---
