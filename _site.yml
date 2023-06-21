@@ -7,6 +7,8 @@ navbar:
       href: index.html
     - text: "Txt"
       href: Runoja.html
+    - text: "Vieraskirja"
+      href: Vieraskirja.html
     - text: "Krasnaja Maika [2018]"
       href: blog.html
   right:
