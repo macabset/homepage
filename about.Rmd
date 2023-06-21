@@ -1,15 +1,23 @@
 ---
-title: "About me"
-author: "Maika"
-date: "8 March 2018"
+title: "[Lisää kuvaus]"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+# 2023
 
-# Maika
+Olen tässä.
+
+En tiedä, haluanko, mutta olenpahan kuitenkin.
+
+Viimeksi tiesin paljon paremmin, kuka olen. Nyt olen lähinnä hukassa.
+
+Ehkä koti löytyy sivujen välistä. Ehkä välistämme.
+
+
+# 2018
 
 " This is where I need to be  
   This is what I want to do  
