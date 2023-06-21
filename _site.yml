@@ -5,10 +5,10 @@ navbar:
   left:
     - text: "Sivukuvaus"
       href: index.html
-    - text: "Krasnaja Maika [2018]"
-      href: blog.html
     - text: "Txt"
       href: Runoja.html
+    - text: "Krasnaja Maika [2018]"
+      href: blog.html
   right:
     - text: Kirjoittajasta
       href: about.html
