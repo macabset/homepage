@@ -21,8 +21,10 @@ Vihani nukkuu huonosti. Kerään sen sipulit joka ikisestä kammarista ja kehdos
 
 Vien vihani lenkille. Huudatan sitä tiedemetsässä, tiedemenetelmin, tieteellisellä tarkkuudella. Se kumisee yksinäisyyttään, kuten tieteentekijälle kuuluukin. Se tietää, että kukaan ei tule tuloksista tietäväisemmäksi. Vastaantulija kysyy "tapahtuiko metsässä juuri murha?". Vastaan: "se olin vain minä".
 
-**
-#Vihan historia
+---
+
+
+### Vihan historia
 
 Et voi väittää, että en ole yrittänyt. Ensin olin hiljaa. Olin hiljaa kun äitini kaatoi itsensä ja mielipiteensä kolisten päälleni. Olin hiljaa ja käänsin televisiosta äänet kovemmalle. Olin hiljaa kun aikuiset katsoivat ääneti. Olin niin hiljaa, että lopulta sydämenikin kohisi kuin tyhjä kanava.
 
@@ -30,8 +32,9 @@ Sitten en ollut hiljaa ja ystäväni ja rakkaani kysyivät "kuinka kehtaat"? Ja 
 
 Vyöryn ja patoan.
 
-***
-#HHHHHHHHH
+---
+
+### HHHHHHHHH
 
 Vajoan syvään pehmeyteen. Olen siinä suloisessa pisteessä, juuri ennen tiedottomuutta, jossa tiedän, että se tulee, mutta en ole vielä siellä. En halua venyttää sitä, vaikka se on paras tunne maailmassa. Silmäluomeni märkivät halusta unohtaa näkemänsä edes hetkeksi.
 
@@ -39,7 +42,8 @@ Klipnjaaa. Shiih shiih. Kuplomkhah khah khapmamp.
 	Shiuh shimp
 	Shimpshimpshimp
 	
-	HHHHHH [M.] HHHHHHHHHHHH
+	
+ --  HHHHHH [M.] HHHHHHHHHHHH
 
 shishim
 
@@ -48,10 +52,13 @@ Tap
 	
 TAPTAPTAP
 
-Huokaan mielenosoituksellisesti. Tiedän, että mahdollisuuteni karkasi minulta jo.
-
-*****
-#Vihan historia vol 2. 
+-- hhhhhhhh
+ 
+ Tiedän, että mahdollisuuteni karkasi minulta jo.  
+ 
+ ---
+ 
+### Vihan historia vol 2. 
 
 Mä haluaisin, että 30-vuotias Stalin kattois mua syvälle silmiin ja pyytäis seuraamaan. Mä paljastaisin vasemman rintani ja liehuttaisin hameestani tehtyä banderollia toisessa kädessä. Sen liepeisiin tarraisi vihaisten miesten kädet ja yhdessä me tuhon voimalla revittäisiin myös autoista maalit päältä.
 
@@ -63,8 +70,9 @@ Oikeesti mulla vois olla se auto. Joten mä oon varmaa enemmän "ne" kuin "me". 
 
 Kilometrien korkuinen ja sienen muotoinen väkivallan uhka katosi. Tai ehkä se vain vaihtoi väriä. Joten mä en osaa muuta kuin kirjottaa.
 
-***
-#Vanhentunut
+---
+
+### Vanhentunut
 
 Mua etoo
 
@@ -74,17 +82,10 @@ Kun sä kutsut mua niin, osaan kohdistaa vihan sinne, minne se kuuluu.
 
 Älä enää koskaan kutsua mua tolla nimellä, sanon — ennen kaikkea itselleni.
 
-***
-Sä pidät huolta sun rajoista. Vitun hienoa. Mut kai sä tajuut, että jos halutaan olla samassa tilassa ja sä pakotat sen tilan sun raameihin, mun on pakko joustaa. Ja vaikka ne pallurat sinänsä sopii yhteen. Syö olla aina liikkuva osapuoli.
+---
 
-***
-Joten en jousta.
-Nyt loppu velvollisuus.
-Tempoilen.
-"Miks sä oot sit täällä?"
 
-Koska muuten me ei nähtäis ollenkaan.
-***
+### Rajoista
 Jos kaiken tekemisensä vertaa seksitilanteeseen, aika nopeasti selviää, mitä haluaa tehdä ja mitä ei.
 
 Ja argumentit, kuten 
@@ -100,7 +101,9 @@ Ja argumentit, kuten
 
 rupee kuulostaa aika hupsuilta.
 
-## Ilkeys ja kauna
+---
+
+### Ilkeys ja kauna
 
 Ukkini opetti minulle joskus korttipelin nimeltä "Ilkeys ja kauna". En enää muista sen sääntöjä tai tarkoitusta. Pelaan sujuvasti siitä huolimatta.
 
