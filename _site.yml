@@ -1,11 +1,11 @@
 name: "Home Page -Project"
 output_dir: "."
 navbar:
-  title: "Homepage"
+  title: "Kotisivut"
   left:
-    - text: "Home"
+    - text: "Sivukuvaus"
       href: index.html
-    - text: "Historia"
+    - text: "Krasnaja Maika [2018]"
       href: blog.html
     - text: "Runoja"
       href: Runoja.html
