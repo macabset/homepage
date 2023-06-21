@@ -10,7 +10,7 @@ navbar:
     - text: "Runoja"
       href: Runoja.html
   right:
-    - text: About me
+    - text: Kirjoittajasta
       href: about.html
 output:
   html_document:
