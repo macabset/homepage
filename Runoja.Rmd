@@ -1,5 +1,5 @@
 ---
-title: "Runoja"
+title: "Merkkejä peräkkäin"
 output: html_document
 ---
 
@@ -7,22 +7,107 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## R Markdown
+## Vihasaaga
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+### #vihanvoimalla
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Tunteeni ovat jossain, ehkä työn alla. Ne möyrivät esiin kuin rikkaruohot; rumina ja sopimattomina. Kitken ne geometrisen kivipuutarhani tieltä.
 
-```{r cars}
-summary(cars)
-```
+Odotan sinulta jotain, mitä en itse jaksa antaa. Jopa saan. Silti olen lähinnä vihainen. Vihainen olen ollut ulos ja sisään, sisään ja ulos. Jotain teen väärin. Sinä teet aina jotain väärin.
 
-## Including Plots
+Lämmitän katkeruuden hellalla kitkerän kaurapuuron. Syötän sen sinulle. Syljet sen takaisin naamalleni.
 
-You can also embed plots, for example:
+Vihani nukkuu huonosti. Kerään sen sipulit joka ikisestä kammarista ja kehdosta, joissa olen koskaan nukkunut. Kerään ne koriin, tuon ne korvakäytäviesi mehevään maaperään, sillä minussa ei kasva mikään. Se leviää kuin kielo. Haistelemme sen kukintoa yhdessä. 
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+Vien vihani lenkille. Huudatan sitä tiedemetsässä, tiedemenetelmin, tieteellisellä tarkkuudella. Se kumisee yksinäisyyttään, kuten tieteentekijälle kuuluukin. Se tietää, että kukaan ei tule tuloksista tietäväisemmäksi. Vastaantulija kysyy "tapahtuiko metsässä juuri murha?". Vastaan: "se olin vain minä".
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+**
+#Vihan historia
+
+Et voi väittää, että en ole yrittänyt. Ensin olin hiljaa. Olin hiljaa kun äitini kaatoi itsensä ja mielipiteensä kolisten päälleni. Olin hiljaa ja käänsin televisiosta äänet kovemmalle. Olin hiljaa kun aikuiset katsoivat ääneti. Olin niin hiljaa, että lopulta sydämenikin kohisi kuin tyhjä kanava.
+
+Sitten en ollut hiljaa ja ystäväni ja rakkaani kysyivät "kuinka kehtaat"? Ja niin kuvittelen että en kehtaa kunnes hiljaisuuteni käy äänekkääksi kuin koski. 
+
+Vyöryn ja patoan.
+
+***
+#HHHHHHHHH
+
+Vajoan syvään pehmeyteen. Olen siinä suloisessa pisteessä, juuri ennen tiedottomuutta, jossa tiedän, että se tulee, mutta en ole vielä siellä. En halua venyttää sitä, vaikka se on paras tunne maailmassa. Silmäluomeni märkivät halusta unohtaa näkemänsä edes hetkeksi.
+
+Klipnjaaa. Shiih shiih. Kuplomkhah khah khapmamp. 
+	Shiuh shimp
+	Shimpshimpshimp
+	
+	HHHHHH [M.] HHHHHHHHHHHH
+
+shishim
+
+Tap
+	Taptap
+	
+TAPTAPTAP
+
+Huokaan mielenosoituksellisesti. Tiedän, että mahdollisuuteni karkasi minulta jo.
+
+*****
+#Vihan historia vol 2. 
+
+Mä haluaisin, että 30-vuotias Stalin kattois mua syvälle silmiin ja pyytäis seuraamaan. Mä paljastaisin vasemman rintani ja liehuttaisin hameestani tehtyä banderollia toisessa kädessä. Sen liepeisiin tarraisi vihaisten miesten kädet ja yhdessä me tuhon voimalla revittäisiin myös autoista maalit päältä.
+
+Mä haluan tuhota. Haluan mäiskiä, tarrata, naarmuttaa, polttaa kiiltäväpintaisia autoja talojen pihalla, joissa on korkeat huoneet ja kulmikkaat erkkerit. Mä haluan, että kiiltäväpinta-autojenomistajia pelottais tulevaisuus yhtä paljon ku mua. Päivittäin. Öisin. Mä nukun huonosti niiden takia. Olis vaan reilua että ne nukkuis huonosti mun takia.
+
+En ole kohtuuton. Mä voin ihan hyvin lopettaa autoihin. Jos pakenevat, saavat pyytää kyytiä Jeesuksen seuraajilta. Muussa tapauksessa katsovat tätä samaa maailmaa ja meitä. Mitä likasemmilta me näytetään, sitä enemmän me rumennetaan niiden katunäkymää.
+
+Oikeesti mulla vois olla se auto. Joten mä oon varmaa enemmän "ne" kuin "me". Mut toisaalta, mulla ei oo. Joten jossain on tehty valintoja, minussa tai minulle.
+
+Kilometrien korkuinen ja sienen muotoinen väkivallan uhka katosi. Tai ehkä se vain vaihtoi väriä. Joten mä en osaa muuta kuin kirjottaa.
+
+***
+#Vanhentunut
+
+Mua etoo
+
+Imelä, pieni ja makea sana suussa. Käymisen aloittanut marja. Mä kutsun itteeni sillä vaan sillon ku on pakko. Kun alistan itseni siihen muottiin, mitä Yliopisto, Tori, Oikotie, Pankki, Perhe - mitä näitä tärkeitä instituutioita nyt onkaan - multa odottaa.
+
+Kun sä kutsut mua niin, osaan kohdistaa vihan sinne, minne se kuuluu. 
+
+Älä enää koskaan kutsua mua tolla nimellä, sanon — ennen kaikkea itselleni.
+
+***
+Sä pidät huolta sun rajoista. Vitun hienoa. Mut kai sä tajuut, että jos halutaan olla samassa tilassa ja sä pakotat sen tilan sun raameihin, mun on pakko joustaa. Ja vaikka ne pallurat sinänsä sopii yhteen. Syö olla aina liikkuva osapuoli.
+
+***
+Joten en jousta.
+Nyt loppu velvollisuus.
+Tempoilen.
+"Miks sä oot sit täällä?"
+
+Koska muuten me ei nähtäis ollenkaan.
+***
+Jos kaiken tekemisensä vertaa seksitilanteeseen, aika nopeasti selviää, mitä haluaa tehdä ja mitä ei.
+
+Ja argumentit, kuten 
+"koska mun on pakko"
+"se ois helpompaa"
+"sit vältän riidat"
+"noku mä lupasin"
+"ei kai viime hetkellä voi perua"
+"entä jos se suuttuu mulle"
+"hirvee vaiva"
+"muuten en koskaan oo mitään"
+"tää ei riitä"
+
+rupee kuulostaa aika hupsuilta.
+
+## Ilkeys ja kauna
+
+Ukkini opetti minulle joskus korttipelin nimeltä "Ilkeys ja kauna". En enää muista sen sääntöjä tai tarkoitusta. Pelaan sujuvasti siitä huolimatta.
+
+Kauna on sitä, että haluaa, mutta kieltää sen itseltään. Ilkeys on sitä, kun syyttää siitä muita. Näin puhui Nietzsche.
+
+Maailma on ruma ympärilläni ja minä vihainen kaunainen mutapallero. Tiedän, että näin ei tarvitsisi olla.
+
+Olen haluton päästämään irti kaunastani. Samalla joudun päästämään irti turvasta, jonka hyveellisenä oleminen tuo. Jos ei enää syytä muita, on vaara joutua itse syytetyksi. Ja olla syyllinen syytöksiin. Vahvuutta olisi kantaa se. Vahvuutta, jonka ukkini ehkä osaisi opettaa, jos olisi elossa. Vahvuutta, jonka minä voisin oppia, jos minä olisin elossa.
+
+Ecuadorissa oli nainen, joka koputti hauta-arkkuaan omissa hautajaisissaan. Ehkä koputuksen kuulee vasta kun kaikki ympärillä ovat hiljaa. Tai ehkä kuuntelu vaatii seurakseen surun, joka on vain yksi muoto rakkautta.

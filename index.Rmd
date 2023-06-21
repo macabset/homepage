@@ -1,11 +1,24 @@
 ---
-title: "Kotisivut"
+title: "Sisällysluettelo"
 ---
-## Uusi kuvaus
 
-Kuvaus tähän
 
-## Original description 
+
+## Käsikirja [2023]
+
+
+Kuten alla näkyy ja riippuen, mistä olet aloittanut klikkailun/lukemisen/”surffaamisen”/tutustumisen, tämä on uusi kerros, joka kertoo uudesta aikakaudesta. Ohjelmat ovat samat, mutta materiaalinen ympäristö on muuttunut niin täydellisesti, että sisältö ei voi olla enää sama. Lähestymistapa, tavoitteet ja kieli rakentuvat päällekäin ja lomittain. Tietokone, näyttö, näppäimistö, talo ympäriltäni on vaihtunut. Melkeinpä jokainen solu minussakin on ehtinyt uusiutua sitten viime käyttökerran.
+
+Halusin jättää kerrostumat. Se on filosofiani nyt. Olen muokannut vain otsikot niin, että uusi kerros on ymmärrettävä suhteessa vanhaan; se on eri, uutta. En sentään ole tehnyt historian suurien ajattelijoiden suurinta virhettä ja nimennyt uutta aikakautta ”uudeksi ajaksi”. Luotan, että tämänkin jälkeen tulee uutta. Ja jos ei tule, ainakin jälkikäteen lukijat jättävät minut rauhaan, menneisyyden mutaan, minne käytetyt ajatukset kuuluvatkin.
+
+Haluan luoda. Jakaa. Minut on tehty jakamaan ja jaettavaksi.
+
+Haluan tulla näkyväksi.
+Nolatuksi, rakastetuksi, hyväksytyksi.
+
+
+
+## Manual [2018]
 This homepage is created with R-coding language and provided to the world with GitHub.(Do you want to start your own web page? Read these instructions, and you are basically there! [instruction 1](https://rmarkdown.rstudio.com/lesson-13.html) and [instruction 2](https://bookdown.org/yihui/rmarkdown/websites.html). It could not have been done without my studies at the University of Helsinki and especially a course called Introduction to Open Data Science [IODS](https://courses.helsinki.fi/fi/78995/115961424)  led by statistical expert [Kimmo Vehkalahti]( http://www.helsinki.fi/~kvehkala/index.html). 
 
 Are you interested in the learning process behind this amazingly beautiful outcome? Go check my [GitHub pages]( https://github.com/macabset) and my previous [project](https://macabset.github.io/IODS-final/) with R and GitHub.
