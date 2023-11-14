@@ -9,6 +9,23 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Vihasaaga
 
+### Käytöstapoja
+
+Käytöstapoja, vaaditte. Vaaditte, te sääntöjen vartijat. Käytöstavat on moraalinen koodistonne.
+Ja minä pahoittelen, nöyrästi pahoittelen. Niin, muistan minäkin, mitä koulussa opetettiin. Muistan, että pääsee helpommalla, jos katsoo vielä alemmas kuin sinua vanhemmat sinua. Muistan, että ylpeys on suurin synti heti köyhyyden jälkeen. Muistan, kuinka helppoa oli vaieta ja lopulta ääni minussa vaikeni myös.
+
+En pääse liikkumaan. En pääse täältä pois.
+
+
+### LED
+
+Miten sinua ei satuta tämä piinaava valo? Katse, joka ei ole koskaan ymmärtänyt elämästä mitään valvoo näitä kiviä. Heittimet kuin sireenit karkottavat pyhän pois. Värit kuolevat sen syleilyssä. Taistelen vastaan sulkemalla luomeni sieluni verhoksi, mutta valo pistää läpi enkä pääse pakoon.
+
+Kuka elämästä vieraantunut ja sille vihamielinen olento on päättänyt levittää nämä portit auki ja päästää sen voimat valloilleen? Kuka papereista elävä virkamies on lasittunein silmin lukenut kustannusarvioita ja kestävyystavoitteita ja päättänyt, että kaikki muu saa jäädä alle. Olitko se sinä? Olinko se minä?
+
+Pyhä asuu pimeässä. Ei ihme, jos tämä levoton aika ei löydä rauhaa.
+
+
 ### #vihanvoimalla
 
 Tunteeni ovat jossain, ehkä työn alla. Ne möyrivät esiin kuin rikkaruohot; rumina ja sopimattomina. Kitken ne geometrisen kivipuutarhani tieltä.
