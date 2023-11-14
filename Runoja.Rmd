@@ -16,6 +16,7 @@ Ja minä pahoittelen, nöyrästi pahoittelen. Niin, muistan minäkin, mitä koul
 
 En pääse liikkumaan. En pääse täältä pois.
 
+---
 
 ### LED
 
@@ -25,6 +26,7 @@ Kuka elämästä vieraantunut ja sille vihamielinen olento on päättänyt levit
 
 Pyhä asuu pimeässä. Ei ihme, jos tämä levoton aika ei löydä rauhaa.
 
+---
 
 ### #vihanvoimalla
 
