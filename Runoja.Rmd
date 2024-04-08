@@ -9,6 +9,48 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Vihasaaga
 
+### Puolivihainen
+
+Mä vihaan naisia\
+Vittu vanhentunut virsi\
+Mut ne ja me tekee sen nii helpoksi\
+Että en voi muuta kuin laulaa: Totisesti!
+
+Mä vihaan tekopyhiä, uhriutuvia naisia\
+Aikansa marttyyrejä\
+Kuunnellaan tunteita ja sallitaan kaikki\
+Paitsi viha, mustasukkaisuus ja kaikki kova\
+Ja ruma\
+Kaikki paitsi kiva\
+Ihan kiva\
+Sivistynyt kaksihaarainen kieli\
+Peittää kakaramaisuuden terapiapuheen alle\
+
+Mä vihaan pieniä, sievästi tanssivia naisia. Mukavia kitkattomia naisia.\
+Kohteliaita hiljaisia katseita ja vielä hiljaisempia sanoja. Niitä, jotka ei koskaan tee mitään, mistä pitäisi joutua pyytämään anteeksi. Ja tulevat näkymättömyydellään pyytäneeksi anteeksi kaikesta. 
+
+Vihaan kun se toimii. Toimiiko se? Valitsinko väärin, silloin joskus, kun halusin olla jotain muuta. Kun ajattelin, että en kykene olemaan muuta kuin muuta.\
+Mä vihaan kun se ei toimi. Kun Miehet katsoo teitä, niin ku mä katson. Minua? Vihaan, kun teen itsestäni niin vähän kuin mahdollista, jotta ei minua. Nuolen sotilaiden maihinnousukengät kiiltäväksi ja samalla kiillotan omanikin. Vihan oikeutus on aina ollut helpompaa kuin häpeän ja kateuden.
+
+Kyllä, vihaan myös miehiä, mutta se ei ole nyt tärkeää.
+
+Oleellista on muoto: on tai ei. Niissä on tai ei. Se on ja sen olemisen ongelmointi kiinteyttää sen olemista. Ja kun haluaisin vaan, että kaikki lilluu ja kelluu ja hyllyy. Ei-oo. Sulaa, haihtuu ja kohoaa. Ehkä sieltä näkyisi jotain uutta.
+
+---
+
+### Näytön paikka
+
+Milloin huomasit ensimmäisen kerran olevasi yksin?
+Nyt huomaat sen metrossa päivittäin. Vastapäisellä laiturilla. Kotisi sohvalla. Makuuhuoneessa. Vilkkuvat valot ovat imaisseet heidät kaikki.
+
+Ne eivät vieneet läheisiäsi yksitellen, vaan rysäyksellä. Mutta sinulla kesti huomata se. Niinhän sanottiin romaaneistakin, lohdutit itseäsi. Ja pesukoneista, elokuvista, autoista, pornosta, e-pillereistä. Juuttisäkkiin palaaminen tuntui juntilta, ajattelit.
+
+Kyselit, huomautit ja epäilit. Hyppäsit junasta ja hyppäsit kyytiin uudestaan. Nyt roikut ikkunasta osaamatta jäädä pois tai nauttia edes vaunun lämmöstä.
+
+Voit olla yksin yksin tai muiden kanssa yksin. Ravintolavaunusta voit valita makaronilaatikkoa tai maksalaatikkoa.
+
+---
+
 ### Käytöstapoja
 
 Käytöstapoja, vaaditte. Vaaditte, te sääntöjen vartijat. Käytöstavat on moraalinen koodistonne.
