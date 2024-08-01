@@ -9,6 +9,53 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Vihasaaga
 
+### Riepu
+
+Kohta käy köpelösti.
+
+Käyn siihen lepäämään, käärin itseni äitini tekemään täkkiin. \
+vaikka
+Raajani palelevat pieneksi käyneen peiton alla.\
+Ei haittaa\
+Tämä riittää.
+
+Tilkuttu sydämeni ei ole enää paikalla\
+kun isku käy\
+Se on kääritty talteen\
+pellavaisiin liinoihin
+
+---
+
+### MeNaiset
+
+Hyvät naiset & kaikki\
+perseenne renkaisiin tunkijat\
+käymälässä istualtaan kusijat.
+
+Minulla on parempaakin tekemistä, \
+kuin pyyhkiä huolimattomuutesi sileiltä poskiltani. \
+Ei paljon, mutta sen verran.
+
+Odotin teiltä parempaa.
+
+---
+
+### Suru&Viha
+
+Sinä olet hidas, minä nopea\
+Hiljaisuutesi aikana ehdin ajatella kaksitusinaa asiaa ja tehdä niistä kolme. Joista vähintään kaksi on väärää.\ Kertaalleen anon kaikkea\
+Mitä sinä teet?
+
+Vuosikymmeneen lasken kanssasi.\
+Yksinäisyys kanssasi, yksinäisyys ilman\
+kahdenkesken kukoistamme, niin muistelen\
+En taida jaksaa laskea enempää, en muista enempää.
+
+Tiedätkö, kuinka vaikeaa on olla vihainen surevalle?\
+Huomaan oppivani hurjaa vauhtia.
+
+---
+
 ### Puolivihainen
 
 Mä vihaan naisia\
