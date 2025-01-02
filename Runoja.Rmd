@@ -7,11 +7,98 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Vihasaaga
+---
+
+<br>
+<br>
+<br>
+<br>
+
+## Tämä on jotain uutta, en tiedä mitä
+
+<br>
+<br>
+<br>
+<br>
+
+
+#### Vuonisto
+
+Kreppipaperin läpi kuultavat joet.\
+Kulutuksen silittämät kumpareet, eroosion karhentamat kivet\
+Uomia ja vuonoja liikuttavat voimat jaksavat hämmästyttää minua\
+Kuka liikuttaa liikuttajaa?
+
+Voisin sukeltaa maan keskipisteeseen, kaukaisimman aurinkokunnan kaukaisimmalle planeetalle \
+ja en ymmärtäisi\
+mitä oman napani ympärillä tapahtuu.
+
+<br>
 
 ---
 
-### Ei kyllä
+<br>
+
+#### Nimetön
+
+
+Tähän minulla ei ole muita sanoja kuin, että\
+Olisitko aina mun?
+
+Minulle maistuisi kyllä
+
+<br>
+
+---
+
+<br>
+
+#### Pyhä asuu pimeässä
+
+Pyhä asuu pimeässä. Se koskettaa minua, painaa, kieputtaa.\
+Olen hauras, olen altis; Pimeys saa vallata minut. 
+
+Pimeyden turvin saan lähestyä ja loitota kuin liekki. Ja minä saan vallata ja valloittaa, elämöidä.\
+Minua voi paeta -- ole hyvä -- mutta minä en pakene.
+
+Pyhä asuu lämpimässä, siellä missä on hyvä olla. Missä on kaikki maailman aika ja vielä kymmenen minuuttia -- riittävästi. Tämä riittää minulle.
+
+Pyhä asuu siellä, missä kuulen vain oman hengitykseni ja verisuonieni pulputuksen. Sellaisessa hiljaisuudessa, jossa huomaan, että hiljaisuutta ei ole.
+
+Pyhä asuu sinussa. Haluan sinuun.
+
+Pyhä asuu minussa, nyt.
+
+<br>
+
+---
+
+<br>
+
+#### Valovoima
+
+Sinä olet jykevä kone. Sinä tarvitset nämä liekit, jotta pääset liikkeelle. Kun pääset, olet voima, jota ei voi pysäyttää.
+
+Minä olen kolibri. Tämä valo valuu minuun kuin nektari liian pieneen astiaan. 
+
+Kuplittaa\
+Into ei mahdu minuun ja se ei ole ilahduttavaa. 
+
+<br>
+
+---
+
+<br>
+
+## Vihasaaga
+
+<br>
+<br>
+<br>
+<br>
+
+
+#### Ei kyllä
 
 Ei kiitos lähiöiden putkitalojen virralle\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vieraan lapsen huudoille\
@@ -31,9 +118,13 @@ Joku päivä\
 	
 jotakin kaunista ja omaa
 
+<br>
+
 ---
 
-### Unohdettusi
+<br>
+
+#### Unohdettusi
 
 Olen poissa ja sinä\
 et edes tiedä\
@@ -67,9 +158,13 @@ Ehkä huomenna\
 minäkin unohdan\
 Ja olen
 
+<br>
+
 ---
 
-### Teekutsut
+<br>
+
+#### Teekutsut
 
 Olet bergamotti \
 kanelipullarouva
@@ -82,9 +177,13 @@ Ja kas\
 Siksi en kai tullut\
 toimeen kanssasi
 
+<br>
+
 ---
 
-### Riepu
+<br>
+
+#### Riepu
 
 Kohta käy köpelösti.
 
@@ -99,9 +198,13 @@ kun isku käy\
 Se on kääritty talteen\
 pellavaisiin liinoihin
 
+<br>
+
 ---
 
-### MeNaiset
+<br>
+
+#### MeNaiset
 
 Hyvät naiset & kaikki\
 perseenne renkaisiin tunkijat\
@@ -114,9 +217,13 @@ Ei paljon, mutta sen verran.
 
 Odotin teiltä parempaa.
 
+<br>
+
 ---
 
-### Suru&Viha
+<br>
+
+#### Suru&Viha
 
 Sinä olet hidas, minä nopea\
 Hiljaisuutesi aikana ehdin ajatella kaksitusinaa asiaa ja tehdä niistä kolme. Joista vähintään kaksi on väärää.\ Kertaalleen anon kaikkea\
@@ -130,9 +237,13 @@ En taida jaksaa laskea enempää, en muista enempää.
 Tiedätkö, kuinka vaikeaa on olla vihainen surevalle?\
 Huomaan oppivani hurjaa vauhtia.
 
+<br>
+
 ---
 
-### Puolivihainen
+<br>
+
+#### Puolivihainen
 
 Mä vihaan naisia\
 Vittu vanhentunut virsi\
@@ -159,9 +270,13 @@ Kyllä, vihaan myös miehiä, mutta se ei ole nyt tärkeää.
 
 Oleellista on muoto: on tai ei. Niissä on tai ei. Se on ja sen olemisen ongelmointi kiinteyttää sen olemista. Ja kun haluaisin vaan, että kaikki lilluu ja kelluu ja hyllyy. Ei-oo. Sulaa, haihtuu ja kohoaa. Ehkä sieltä näkyisi jotain uutta.
 
+<br>
+
 ---
 
-### Näytön paikka
+<br>
+
+#### Näytön paikka
 
 Milloin huomasit ensimmäisen kerran olevasi yksin?
 Nyt huomaat sen metrossa päivittäin. Vastapäisellä laiturilla. Kotisi sohvalla. Makuuhuoneessa. Vilkkuvat valot ovat imaisseet heidät kaikki.
@@ -172,18 +287,26 @@ Kyselit, huomautit ja epäilit. Hyppäsit junasta ja hyppäsit kyytiin uudestaan
 
 Voit olla yksin yksin tai muiden kanssa yksin. Ravintolavaunusta voit valita makaronilaatikkoa tai maksalaatikkoa.
 
+<br>
+
 ---
 
-### Käytöstapoja
+<br>
+
+#### Käytöstapoja
 
 Käytöstapoja, vaaditte. Vaaditte, te sääntöjen vartijat. Käytöstavat on moraalinen koodistonne.
 Ja minä pahoittelen, nöyrästi pahoittelen. Niin, muistan minäkin, mitä koulussa opetettiin. Muistan, että pääsee helpommalla, jos katsoo vielä alemmas kuin sinua vanhemmat sinua. Muistan, että ylpeys on suurin synti heti köyhyyden jälkeen. Muistan, kuinka helppoa oli vaieta ja lopulta ääni minussa vaikeni myös.
 
 En pääse liikkumaan. En pääse täältä pois.
 
+<br>
+
 ---
 
-### LED
+<br>
+
+#### LED
 
 Miten sinua ei satuta tämä piinaava valo? Katse, joka ei ole koskaan ymmärtänyt elämästä mitään valvoo näitä kiviä. Heittimet kuin sireenit karkottavat pyhän pois. Värit kuolevat sen syleilyssä. Taistelen vastaan sulkemalla luomeni sieluni verhoksi, mutta valo pistää läpi enkä pääse pakoon.
 
@@ -191,9 +314,13 @@ Kuka elämästä vieraantunut ja sille vihamielinen olento on päättänyt levit
 
 Pyhä asuu pimeässä. Ei ihme, jos tämä levoton aika ei löydä rauhaa.
 
+<br>
+
 ---
 
-### #vihanvoimalla
+<br>
+
+#### #vihanvoimalla
 
 Tunteeni ovat jossain, ehkä työn alla. Ne möyrivät esiin kuin rikkaruohot; rumina ja sopimattomina. Kitken ne geometrisen kivipuutarhani tieltä.
 
@@ -205,10 +332,13 @@ Vihani nukkuu huonosti. Kerään sen sipulit joka ikisestä kammarista ja kehdos
 
 Vien vihani lenkille. Huudatan sitä tiedemetsässä, tiedemenetelmin, tieteellisellä tarkkuudella. Se kumisee yksinäisyyttään, kuten tieteentekijälle kuuluukin. Se tietää, että kukaan ei tule tuloksista tietäväisemmäksi. Vastaantulija kysyy "tapahtuiko metsässä juuri murha?". Vastaan: "se olin vain minä".
 
+<br>
+
 ---
 
+<br>
 
-### Vihan historia
+#### Vihan historia
 
 Et voi väittää, että en ole yrittänyt. Ensin olin hiljaa. Olin hiljaa kun äitini kaatoi itsensä ja mielipiteensä kolisten päälleni. Olin hiljaa ja käänsin televisiosta äänet kovemmalle. Olin hiljaa kun aikuiset katsoivat ääneti. Olin niin hiljaa, että lopulta sydämenikin kohisi kuin tyhjä kanava.
 
@@ -216,9 +346,13 @@ Sitten en ollut hiljaa ja ystäväni ja rakkaani kysyivät "kuinka kehtaat"? Ja 
 
 Vyöryn ja patoan.
 
+<br>
+
 ---
 
-### HHHHHHHHH
+<br>
+
+#### HHHHHHHHH
 
 Vajoan syvään pehmeyteen. Olen siinä suloisessa pisteessä, juuri ennen tiedottomuutta, jossa tiedän, että se tulee, mutta en ole vielä siellä. En halua venyttää sitä, vaikka se on paras tunne maailmassa. Silmäluomeni märkivät halusta unohtaa näkemänsä edes hetkeksi.
 
@@ -240,9 +374,13 @@ TAPTAPTAP
  
  Tiedän, että mahdollisuuteni karkasi minulta jo.  
  
- ---
+ <br>
  
-### Vihan historia vol 2. 
+---
+ 
+ <br>
+ 
+#### Vihan historia vol 2. 
 
 Mä haluaisin, että 30-vuotias Stalin kattois mua syvälle silmiin ja pyytäis seuraamaan. Mä paljastaisin vasemman rintani ja liehuttaisin hameestani tehtyä banderollia toisessa kädessä. Sen liepeisiin tarraisi vihaisten miesten kädet ja yhdessä me tuhon voimalla revittäisiin myös autoista maalit päältä.
 
@@ -254,9 +392,13 @@ Oikeesti mulla vois olla se auto. Joten mä oon varmaa enemmän "ne" kuin "me". 
 
 Kilometrien korkuinen ja sienen muotoinen väkivallan uhka katosi. Tai ehkä se vain vaihtoi väriä. Joten mä en osaa muuta kuin kirjottaa.
 
+<br>
+
 ---
 
-### Vanhentunut
+<br>
+
+#### Vanhentunut
 
 Mua etoo
 
@@ -266,10 +408,13 @@ Kun sä kutsut mua niin, osaan kohdistaa vihan sinne, minne se kuuluu.
 
 Älä enää koskaan kutsua mua tolla nimellä, sanon — ennen kaikkea itselleni.
 
+<br>
+
 ---
 
+<br>
 
-### Rajoista
+#### Rajoista
 Jos kaiken tekemisensä vertaa seksitilanteeseen, aika nopeasti selviää, mitä haluaa tehdä ja mitä ei.
 
 Ja argumentit, kuten  
@@ -287,9 +432,13 @@ Ja argumentit, kuten
 
 rupee kuulostaa aika hupsuilta.
 
+<br>
+
 ---
 
-### Ilkeys ja kauna
+<br>
+
+#### Ilkeys ja kauna
 
 Ukkini opetti minulle joskus korttipelin nimeltä "Ilkeys ja kauna". En enää muista sen sääntöjä tai tarkoitusta. Pelaan sujuvasti siitä huolimatta.
 
@@ -301,15 +450,23 @@ Olen haluton päästämään irti kaunastani. Samalla joudun päästämään irt
 
 Ecuadorissa oli nainen, joka koputti hauta-arkkuaan omissa hautajaisissaan. Ehkä koputuksen kuulee vasta kun kaikki ympärillä ovat hiljaa. Tai ehkä kuuntelu vaatii seurakseen surun, joka on vain yksi muoto rakkautta.
 
----
-
-### Mä vihaan sua.
-
-Sanot sen kuin rakkaudentunnustuksen maankuorien paineen purskauttaessa lauseen ilmaan. Olen kuin yksi Pompeijin asukkaista, jähmettyneenä ikuiseen hämmästykseen. Jäljelle jää hitaasti valuvaa laavaa, joka kimmeltää tyrmäävässä kauneudessaan.
+<br>
 
 ---
 
-### Lokki
+<br>
+
+#### Mä vihaan sua.
+
+Sanot sen kuin rakkaudentunnustuksen maankuorien paineen purskauttaessa lauseen ilmaan. Olen Pompeijin asukas, jähmettyneenä ikuiseen hämmästykseen. Jäljelle jää hitaasti valuvaa laavaa, joka kimmeltää tyrmäävässä kauneudessaan.
+
+<br>
+
+---
+
+<br>
+
+#### Lokki
 
 Saastainen valkoinen parvi roskaruuan ympärille kokoontuneena. Niiden ahnaat silmät seuraavat lipuvia lihakimpaleita tarkkaillen, milloin voivat ottaa toisen omaa.  Ne repivät kääreitä ahnaasti, jättävät jälkeensä revityn silpun. Vievät tilan huudolla ja tulemalla liian lähelle. Turvaväli olematon, turvasana turha.
 
@@ -317,19 +474,26 @@ Pelkään. Enkä syyttä, olen kohdannut niiden kaltaisia monta. Alati hartiat j
 
 Miksi toisille sallitaan väkivalta ja minulle ei? Ei edes puolustusmielessä, etukäteen? Haluan ampua alas mainokset, lokit, humalaiset, poliitikot, jotka vie rahat mun tililtä, ajatukset, jotka kylvävät samaa vihaa kuin mistä itse puhun.
 
+<br>
+
 ---
+
+<br>
 
 ## Pieni ja Toinen
 
----
+<br>
+<br>
+<br>
+<br>
 
-### Pieni ja Toinen  
+#### Pieni ja Toinen  
 
 Pieni oli tietenkin pienempi, mutta Toinen ei oikeastaan ollut sen toisempi kuin Pieni. Tosiaan, Toinen kerran jos toisenkin oli miettinyt kuinka vieras olio Pieni toisinaan oli. Kuinka kerta kaikkisen oma avaruutensa, jonka pimeyden poimuihin saattaisi kadota, jos Pieni ei ollut ohjaamassa, ja välillä silloinkin. Ehkä juuri pienen sokkeloisuuden tähden Toinen tunsi olonsa erityisen vahvaksi silloin, kun kykeni osoittamaan suunnan Pienen ollessa hukassa; varsinkin jos Pieni tätä toiselta pyysi. Näinä kertoina he olivat molemmat jättiläisiä. 
 
 ---
 
-### Talvi
+#### Talvi
 
 Pieni ja Toinen kävelivät lumisella polulla lapanen lapasessa. Huurre tarttui Pienen poskipäiden mutaan ja Toisen viiksikarvoihin. 
 
@@ -347,7 +511,7 @@ Ja sitten Pieni otti Toista taas kädestä, puristi lujaa ja alkoi juosta. Sill�
 
 ---
 
-### Avaruus
+#### Avaruus
 
 Lumi leijaili hiljalleen maahan, mutta sitä eivät Pieni ja Toinen huomanneet. Lapaset tippuivat eteisessä vettä omaan lammikkoonsa tip, tip, tip ja pipot ja lakit lojuivat lattialla avoimessa syleilyssä. Vaatteitaan matkien loikoivat myös Pieni ja Toinen. Toinen pyöritti Pienen niskavilloja sormenpäillään ja kysyi Pienen korvannipukalta:
 
@@ -359,7 +523,7 @@ Ja niin Toinen veti Pienen lähimmän galaksin lähimpään alkavaan tuikkeeseen
 
 ---
 
-### Aika
+#### Aika
 
 Toinen puki Orionin vyön lanteilleen ja he ratsastivat Otavalla tunnetun ja tuntemattoman Avaruuden halki. He imivät sisäänsä autiutta Kuun pimeällä puolella, pulahtivat Caloriksen altailla Merkuriuksella ja kipusivat Luomisen Pilarien huipuille katsomaan loppua maailmankaikkeutta, maailmankaikkeuden loppua.
 
@@ -375,7 +539,7 @@ Yksi ajatuksista - jos yksiköistä tai edes ajatuksista saattoi puhua - oli kai
 
 ---
 
-### Tuuli
+#### Tuuli
 
 Pieni istui hytisten pesänsä nurkassa. Tämä kolo oli yleensä lämmin turva saalistajilta ja muilta ikävyyksiltä. Mutta tänään ovenraosta veti ja Ulkomaailma pyrki sisään sellaisella voimalla kuin vain loppusyksyn rajuilmat tapaavat. Kurkistusikkunan luukut vuotivat julman Tuulen sisälle. Se vinkui epätoivon lauseita Pienen korviin:
 
@@ -391,7 +555,7 @@ Ja niin Pieni antoi vallan ruumiilleen, joka kantoi hänet keittiöön. Veltot t
 
 ---
 
-### Kiire
+#### Kiire
 
 Entä sitten toisaalla? Tunnista toiseen Toisen tassut vispasivat yhtä ja jalat vatkasivat heti perään toista. Voisi jopa sanoa, että Toinen oli niin toisaalla ettei ollut siellä ensinkään. 
 
@@ -406,7 +570,7 @@ Yksikköjen yhteisissä pikkujouluissa jäsenet jupisivat kilpaa ja olivat kaikk
 ---
 
 
-### Lupaus
+#### Lupaus
 
 -- Olen kyllästynyt tähän kylmyyteen, Pieni sanoi ja hyppäsi suoraan kevääseen. Mutta voi! Toinen oli jäänyt sydäntalveen eikä Pieni päässyt enää takaisin. Odottaminen on sentään helpompaa kun varpaita saattoi huljutella jäiden alta pakenevassa virrassa. Vesi oli tietenkin siihen aivan liian kylmää, mutta poskille satava valo sai unohtamaan sekä kylmän että kivun hetkeksi. 
 
@@ -432,7 +596,7 @@ Toinen laittoi Pienen kerän taskuunsa niin, että nauha sai juosta vapaana task
 
 ---
 
-### Peili
+#### Peili
 
 Toinen oli toisaalla -- ehkä naurutalossa toisen toisen kanssa -- ja Pieni tunsi itsensä hyvin pieneksi ja merkityksettömäksi. Pieni piiloutui peilitaloon, jossa hänen jokainen ajatuksensa heijastui alati kiihtyvänä kierteenä ikuisiin versioihin hänestä. Mustat säteet lävistivät hänet joka suunnalta, eikä auttanut vaikka hän juoksi yhä lujempaa ja yhä syvemmälle sokkeloisiin käytäviin.
 
