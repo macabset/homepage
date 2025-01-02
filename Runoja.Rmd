@@ -9,6 +9,81 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Vihasaaga
 
+---
+
+### Ei kyllä
+
+Ei kiitos lähiöiden putkitalojen virralle\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vieraan lapsen huudoille\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ei \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pyynnöille, joita en ole koskaan lunastamassa takaisin
+		
+Sydämeni ei\
+ole enää kaupan, ei halvalla, ei edes ilmaiseksi.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ei enää sinulle.
+
+Sanoin ei\
+Eikä mitään ollut tilalla\
+Sanoin ei, sillä tyhjyys on parempi kuin mitä me olimme.
+
+Joku päivä\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tähän tyhjyyteeni kasvaa kyllä
+	
+jotakin kaunista ja omaa
+
+---
+
+### Unohdettusi
+
+Olen poissa ja sinä\
+et edes tiedä\
+sitä tai tätä tai muutakaan\
+koska olen poissa
+
+Olen poissa mutta minä\
+minä tiedän missä sinä olet\
+olet siellä ja täällä\
+yhtä aikaa\
+olet minun ja\
+et todellakaan
+
+Aina valmiina, aina\
+sanon kyllä, nytkin\
+vaikka et pyydä\
+Mikset pyydä?
+
+Olen poissa ja sinä\
+olet \
+ja sinä olet minulle\
+minun ainoa tapani olla olemassa
+
+Olen poissa ja en\
+Tiedä sinua\
+ehkä huomenna\
+olen sinullekin\
+Olen
+
+Ehkä huomenna\
+minäkin unohdan\
+Ja olen
+
+---
+
+### Teekutsut
+
+Olet bergamotti \
+kanelipullarouva
+
+Sinä laulat onnen taloon\
+Ja kas\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vain \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Onni jää
+
+Siksi en kai tullut\
+toimeen kanssasi
+
+---
+
 ### Riepu
 
 Kohta käy köpelösti.
